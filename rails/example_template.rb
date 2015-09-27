@@ -1,0 +1,1 @@
+/home/tamara/.railsrc.d/example_app.rb
