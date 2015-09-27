@@ -1,0 +1,18 @@
+#+AUTHOR: Tamara Temple
+#+TITLE: General notes for programming examples
+#+STARTUP: content
+
+* General notes for examples
+
+** Creating a new web site
+
+   Useful ways to start a web site include:
+
+   - use Jekyll
+   - use a Boilerplate
+   - Jekyllize a Boilerplate (my new favourite)
+
+*** HTML5 Boilerplate: https://html5boilerplate.com/
+    Great start to a new web app
+*** Custom Boilerplate: http://www.initializr.com/
+    Nice beginning for a responsive design, or using bootstrap from a CDN
